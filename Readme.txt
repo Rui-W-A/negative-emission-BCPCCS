@@ -1,0 +1,1 @@
+Data and code for article "An alternative pathway to phase down coal power and achieve negative emission in China"
